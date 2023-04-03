@@ -20,7 +20,7 @@ CLIFS can be useful in a variety of video-related use cases where you need to fi
 
 3. Content moderation: Social media platforms may need to monitor user-generated content for inappropriate or harmful content. CLIFS can be used to quickly identify frames in a video that contain such content, allowing moderators to take appropriate action.
 
-4. Video recommendation: Video recommendation systems may use CLIFS to suggest videos to users based on their interests. The system can analyze the video's frames and recommend videos that match a user's preferences.
+`4. Video recommendation:` Video recommendation systems may use CLIFS to suggest videos to users based on their interests. The system can analyze the video's frames and recommend videos that match a user's preferences.
 
 
 
