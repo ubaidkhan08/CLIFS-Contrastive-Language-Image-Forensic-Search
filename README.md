@@ -28,6 +28,6 @@ CLIFS can be useful in a variety of video-related use cases where you need to fi
 ## Examples
 
 
-#### A tree with the text 'ZWL'
+#### Prompt: A tree with the text 'ZWL'
 ![alt text](media/zwl.png)
 ======
