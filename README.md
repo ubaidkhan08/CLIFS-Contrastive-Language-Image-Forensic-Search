@@ -34,5 +34,5 @@ CLIFS can be useful in a variety of video-related use cases where you need to fi
 
 
 #### `A few other outputs:`
-![alt text](media/LinkedIn (1).png)
+![alt text](media/output.png)
 ======
