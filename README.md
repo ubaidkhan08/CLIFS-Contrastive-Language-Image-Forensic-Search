@@ -31,3 +31,8 @@ CLIFS can be useful in a variety of video-related use cases where you need to fi
 #### `Prompt:` A tree with the text 'ZWK'
 ![alt text](media/zwk.png)
 ======
+
+
+#### `A few other outputs:`
+![alt text](media/LinkedIn (1).png)
+======
